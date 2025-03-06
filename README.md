@@ -1,5 +1,3 @@
-# hoc-supervisedlearning
-
 # Estimating Energy Consumption of Homes
 
 ## 📌 Project Overview
