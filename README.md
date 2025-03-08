@@ -1,4 +1,5 @@
 # Estimating Energy Consumption of Homes
+Soumika Seelam
 
 ## 📌 Project Overview
 This project aims to build a **linear regression model** that predicts a home's **monthly energy consumption (kWh)** based on various household and environmental factors. By analyzing data on home characteristics and weather conditions, we can estimate energy usage and help homeowners optimize their electricity consumption.
