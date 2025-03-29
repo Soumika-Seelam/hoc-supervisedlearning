@@ -1,4 +1,5 @@
 # Estimating Energy Consumption of Homes 
+**Soumika Seelam**
 ---------------------------------------------------------------
 
 ## 📌 Project Overview
